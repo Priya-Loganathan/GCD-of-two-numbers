@@ -24,6 +24,7 @@ RegisterNumber:
 
 ## Output:
 ![gcd of two number](gcd.png)
+![Screenshot 2023-01-21 203936](https://user-images.githubusercontent.com/121166075/213873265-b86fd5cb-fc6c-4c20-8775-06d3197488d2.png)
 
 
 ## Result:
